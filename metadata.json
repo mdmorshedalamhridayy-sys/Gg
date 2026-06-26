@@ -1,0 +1,6 @@
+{
+  "name": "QuickShare",
+  "description": "Fast, offline file sharing app without internet or accounts",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
